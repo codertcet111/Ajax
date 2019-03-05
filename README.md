@@ -1,2 +1,2 @@
-# Ajax
-This is for understanding of ajax working
+# Food Store
+In this project the AJAX working is demonstrated for quick showing search response.
